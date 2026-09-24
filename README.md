@@ -203,6 +203,26 @@ Sanitized screenshots demonstrating the completed environment are included in th
 
 ## Evidence Mapping
 
+## Lab Evidence
+
+### PVWA System Health
+
+The System Health dashboard confirms communication with the primary Digital Vault and displays active PVWA and CPM application instances. The Vault address and URL have been redacted.
+
+![CyberArk PVWA System Health](images/Screenshot%202026-03-30%20180436%281%29.png)
+
+### PrivateArk Vault Connection
+
+The PrivateArk client displays the registered Vault environment and confirms administrative connectivity.
+
+![PrivateArk Vault connection](images/Screenshot%202026-03-30%20181022.png)
+
+### Digital Vault Service Validation
+
+Server Central Administration confirms successful database connectivity, Vault firewall communication, encryption configuration, and Vault service availability.
+
+![CyberArk Vault service logs](images/Screenshot%202026-03-30%20181408.png)
+
 | Evidence | What It Demonstrates |
 |---|---|
 | PVWA System Health | Primary Vault visibility and active PVWA/CPM instances |
