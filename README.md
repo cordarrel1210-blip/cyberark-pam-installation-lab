@@ -209,7 +209,8 @@ Sanitized screenshots demonstrating the completed environment are included in th
 
 The System Health dashboard confirms communication with the primary Digital Vault and displays active PVWA and CPM application instances. The Vault address and URL have been redacted.
 
-![CyberArk PVWA System Health](images/Screenshot%202026-03-30%20180436%281%29.png)
+![CyberArk PVWA System Health](images/Screenshot%2026-03-30%181408.png)
+
 
 ### PrivateArk Vault Connection
 
